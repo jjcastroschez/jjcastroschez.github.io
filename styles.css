@@ -51,12 +51,12 @@ body{
 }
 
 .avatar{
-  width: 150px;
-  height: 150px;
+  width: 160px;
+  height: 160px;
   margin: 6px auto 14px;
   border-radius: 999px;
   overflow:hidden;
-  border: 1px solid var(--stroke);
+  border: 2px solid var(--stroke);
   box-shadow: 0 10px 30px rgba(0,0,0,.35);
 }
 .avatar img{
